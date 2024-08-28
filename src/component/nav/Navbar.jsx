@@ -12,7 +12,6 @@ import { useDispatch } from "react-redux";
 import { logout } from "../../redux/userReducer";
 import file from "../../assets/image/file-text.png";
 import piggy from "../../assets/image/piggy-bank.png";
-import user from "../../assets/image/vector.png";
 import rocket from "../../assets/image/rocket.png";
 import settings from "../../assets/image/settings.png"
 import smartphone from "../../assets/image/smartphone.png"
